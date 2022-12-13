@@ -1,2 +1,5 @@
 # linuxtip-descomplicando-sql
-repositório do curso de sql da linuxtips x teomewhy
+Repositório do curso de sql da linuxtips x teomewhy
+
+Autor: Teo Calvo
+
